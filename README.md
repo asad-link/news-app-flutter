@@ -27,7 +27,7 @@ A brief description of what this project does and who it's for
 ![News App Screenshot](https://raw.githubusercontent.com/zainsive/news-app-flutter/master/ss/scene%205.png)
 
 
-## Deployment
+#Deployment
 
 To deploy this project run
 
